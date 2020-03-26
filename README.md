@@ -18,6 +18,7 @@ __status__    = "LearnignPython"
 - [Day 01] : Setup https://eu.pythonaywhere.com account and learn some basics
 - [Day 02] : Console line input and start working with conditionals
 - [Day 03] : Learning about Tuples, Lists, Loops (for/while)
+- [Day 04] : Learning about Dictionaries
 
 
 
@@ -31,6 +32,6 @@ __status__    = "LearnignPython"
 [Day 01]: http://www.frameworktv.com/camp/video-code-camp-001.html "Day one of some same basics"
 [Day 02]: http://www.frameworktv.com/camp/video-code-camp-002.html "Day two of some console line input"
 [Day 03]: http://www.frameworktv.com/camp/video-code-camp-003.html "Day three of tuples, lists and loops."
-
+[Day 04]: http://www.frameworktv.com/camp/video-code-camp-004.html "Day four with dictionaries"
 
 [pep8]: https://www.python.org/dev/peps/pep-0008/
