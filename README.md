@@ -21,7 +21,9 @@ __status__    = "LearnignPython"
 
 
 
+## Python Resources
 
+- [PEP 8 Style Guide][pep8]
 
 [1]: https://service.frameworktv.com/covid-19-code-camp/
 [2]: https://twitter.com/mlassoff
@@ -30,3 +32,5 @@ __status__    = "LearnignPython"
 [Day 02]: http://www.frameworktv.com/camp/video-code-camp-002.html "Day two of some console line input"
 [Day 03]: http://www.frameworktv.com/camp/video-code-camp-003.html "Day three of tuples, lists and loops."
 
+
+[pep8]: https://www.python.org/dev/peps/pep-0008/
