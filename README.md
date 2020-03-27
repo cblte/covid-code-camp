@@ -19,7 +19,10 @@ __status__    = "LearnignPython"
 - [Day 02] : Console line input and start working with conditionals
 - [Day 03] : Learning about Tuples, Lists, Loops (for/while)
 - [Day 04] : Learning about Dictionaries
-
+- [Day 05] : Learning something about functions
+- [Day 06] : Learning how to handle classes and more
+- [Day 07] :
+- [Day 08] :
 
 
 ## Python Resources
@@ -33,5 +36,9 @@ __status__    = "LearnignPython"
 [Day 02]: http://www.frameworktv.com/camp/video-code-camp-002.html "Day two of some console line input"
 [Day 03]: http://www.frameworktv.com/camp/video-code-camp-003.html "Day three of tuples, lists and loops."
 [Day 04]: http://www.frameworktv.com/camp/video-code-camp-004.html "Day four with dictionaries"
+[Day 05]: http://www.frameworktv.com/camp/video-code-camp-005.html "Day five with lots of functions"
+[Day 06]: http://www.frameworktv.com/camp/video-code-camp-006.html "Day six is a classy one!"
+[Day 07]: http://www.frameworktv.com/camp/video-code-camp-007.html "Day seven is..."
+[Day 08]: http://www.frameworktv.com/camp/video-code-camp-008.html "Day eight is..."
 
 [pep8]: https://www.python.org/dev/peps/pep-0008/
