@@ -21,7 +21,7 @@ __status__    = "LearnignPython"
 - [Day 04] : Learning about Dictionaries
 - [Day 05] : Learning something about functions
 - [Day 06] : Learning how to handle classes and more
-- [Day 07] :
+- [Day 07] : Learning more about classes
 - [Day 08] :
 
 
@@ -38,7 +38,7 @@ __status__    = "LearnignPython"
 [Day 04]: http://www.frameworktv.com/camp/video-code-camp-004.html "Day four with dictionaries"
 [Day 05]: http://www.frameworktv.com/camp/video-code-camp-005.html "Day five with lots of functions"
 [Day 06]: http://www.frameworktv.com/camp/video-code-camp-006.html "Day six is a classy one!"
-[Day 07]: http://www.frameworktv.com/camp/video-code-camp-007.html "Day seven is..."
+[Day 07]: http://www.frameworktv.com/camp/video-code-camp-007.html "Day seven is more about classes"
 [Day 08]: http://www.frameworktv.com/camp/video-code-camp-008.html "Day eight is..."
 
 [pep8]: https://www.python.org/dev/peps/pep-0008/
